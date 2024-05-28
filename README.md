@@ -1,4 +1,4 @@
-This is repository with examples of very simple UI components. The repository is based on Next.js and React.js. 
+This are repositories with examples of very simple UI components. The repository is based on Next.js and React.js. 
 
 # installation
 
